@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>RePower Rimatomics Patch</name>
+  <targetVersion>1.00.2059</targetVersion>
+  <author>Mlie</author>
+  <description>
+Patches Rimatomics utilities for using the RePower system:
+
+Rimatomics research bench (10W Idle, 600W Active)
+Rimatomics machining table (10W Idle, 800W Active)
+Reactor console (10W Idle, 400W Active)
+Weapons console (10W Idle, 400W Active)
+
+Support-chat here: https://s.team/chat/KUDuzMGR
+</description>
+</ModMetaData>
