@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>RePower Rimefeller Patch</name>
+  <targetVersion>1.00.2059</targetVersion>
+  <author>Mlie</author>
+  <description>
+Patches Rimefeller utilities for using the RePower system:
+
+Resource Console (10W Idle, 400W Active)
+
+Support-chat here: https://s.team/chat/KUDuzMGR
+  </description>
+</ModMetaData>

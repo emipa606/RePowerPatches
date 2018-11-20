@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+  <identifier>RePowerRimefellerPatch</identifier>
+  <version>1.0.0.0</version>
+  <dependencies>
+    <li>[1.0]RePower</li>
+    <li>Rimefeller</li>
+  </dependencies>
+  <incompatibleWith />
+  <loadBefore />
+  <loadAfter>
+    <li>[1.0]RePower</li>
+    <li>Rimefeller</li>
+  </loadAfter>
+  <manifestUri>https://raw.githubusercontent.com/emipa606/RePowerPatches/master/RePowerRimefellerPatch/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/emipa606/RePowerPatches/RePowerRimefellerPatch</downloadUri>
+</Manifest>
