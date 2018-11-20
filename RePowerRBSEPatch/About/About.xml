@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>RePower RBSE Patch</name>
+  <targetVersion>1.00.2059</targetVersion>
+  <author>Mlie</author>
+  <description>
+Patches Rah's Bionics and Surgery Expansion workbenches for using the RePower system:
+
+Advanced Medical Station (10W Idle, 1500W Active)
+Bionic Workbench (10W Idle, 1500W Active)
+</description>
+</ModMetaData>
