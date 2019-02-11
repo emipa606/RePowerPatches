@@ -1,0 +1,32 @@
+<Defs>
+	<RePower.RePowerDef>
+		<!-- Simple Prosthetics Workbench -->
+		<defName>RePowerSimpleProstheticsWorkbench</defName>
+		<targetDef>TableSimpleProsthetic</targetDef>
+		<lowPower>-10</lowPower>
+		<highPower>-650</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>
+	
+	<RePower.RePowerDef>
+		<!-- Tissue Printer -->
+		<defName>RePowerTissuePrinter</defName>
+		<targetDef>TableOrgans</targetDef>
+		<lowPower>-10</lowPower>
+		<highPower>-1000</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>
+
+	<RePower.RePowerDef>
+		<!-- Bionic Workbench -->
+		<defName>RePowerBionicsWorkbench</defName>
+		<targetDef>TableBionics</targetDef>
+		<lowPower>-10</lowPower>
+		<highPower>-1500</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>
+
+</Defs>
