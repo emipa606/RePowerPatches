@@ -1,13 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>RePower VGP Patch</name>
-  <targetVersion>1.00.2059</targetVersion>
-  <author>Mlie</author>
-  <description>
+	<name>RePower VGP Patch</name>
+	<supportedVersions>
+		<li>1.0</li>
+	</supportedVersions>
+	<author>Mlie</author>
+	<url>https://github.com/emipa606/RePowerPatches/RePowerVGPPatch</url>
+	<description>
 Patches Vegetable Garden workbenches for using the RePower system:
 
 Electric Oven (50W Idle, 1250W Active)
 Food Prep Table (10W Idle, 750W Active)
 Sweets Table (10W Idle, 400W Active)
-</description>
+	</description>
 </ModMetaData>
