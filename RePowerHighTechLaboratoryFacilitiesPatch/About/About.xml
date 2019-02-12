@@ -1,12 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>RePower HighTech Laboratory Facilities Patch</name>
-  <targetVersion>1.00.2059</targetVersion>
-  <author>Mlie</author>
-  <description>
+	<name>RePower HighTech Laboratory Facilities Patch</name>
+	<supportedVersions>
+		<li>1.0</li>
+	</supportedVersions>
+	<url>https://github.com/emipa606/RePowerPatches/RePowerEPOEPatch</url>
+	<author>Mlie</author>
+	<description>
 Patches HighTech Laboratory Facilities workbenches for using the RePower system:
 
 Laboratory Station (10W Idle, 750W Active)
 Research Terminal (10W Idle, 750W Active)
-</description>
+	</description>
 </ModMetaData>
