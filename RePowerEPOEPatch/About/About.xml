@@ -1,13 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>RePower EPOE Patch</name>
-  <targetVersion>1.00.2059</targetVersion>
-  <author>Mlie</author>
-  <description>
+	<name>RePower EPOE Patch</name>
+	<supportedVersions>
+		<li>1.0</li>
+	</supportedVersions>
+	<url>https://github.com/emipa606/RePowerPatches/RePowerEPOEPatch</url>
+	<author>Mlie</author>
+	<description>
 Patches Ykara's Expanded Prosthetics and Organ Engineering workbenches for using the RePower system:
 
 Simple Prosthetics Workbench (10W Idle, 650W Active)
 Bionic Workbench (10W Idle, 1500W Active)
 Tissue Printer (10W Idle, 1000W Active)
-</description>
+	</description>
 </ModMetaData>
