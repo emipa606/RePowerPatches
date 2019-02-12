@@ -7,10 +7,8 @@
 	<url>https://github.com/emipa606/RePowerPatches/RePowerEPOEPatch</url>
 	<author>Mlie</author>
 	<description>
-Patches Ykara's Expanded Prosthetics and Organ Engineering workbenches for using the RePower system:
+Patches Ykara's Expanded Prosthetics and Organ Engineering Tissue Printer for using the RePower system:
 
-Simple Prosthetics Workbench (10W Idle, 650W Active)
-Bionic Workbench (10W Idle, 1500W Active)
 Tissue Printer (10W Idle, 1000W Active)
 	</description>
 </ModMetaData>
