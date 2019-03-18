@@ -1,6 +1,5 @@
 <Defs>
 	<RePower.RePowerDef>
-		<!-- VGP Electric Oven-->
 		<defName>RePowerAdvancedMedicalStation</defName>
 		<targetDef>AdvancedMedicalStation</targetDef>
 		<lowPower>-10</lowPower>
@@ -10,7 +9,6 @@
 	</RePower.RePowerDef>
 
 	<RePower.RePowerDef>
-		<!-- VGP Food Prep Table -->
 		<defName>RePowerBionicWorkbench</defName>
 		<targetDef>BionicWorkbench</targetDef>
 		<lowPower>-10</lowPower>
