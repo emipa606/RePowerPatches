@@ -9,3 +9,7 @@ Compilation of patches for RePower
 - RePowerRimefellerPatch
 - RePowerUNColonyPatch
 - RePowerVGPPatch
+- RePowerElectricStonecuttingTablePatch
+- RePowerGloomyFurniturePatch
+- RePowerRTsWeaponPackPatch
+- RePowerAndroidTiersPatch
