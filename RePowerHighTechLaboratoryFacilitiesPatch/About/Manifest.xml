@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
   <identifier>RePowerHighTechLaboratoryFacilitiesPatch</identifier>
-  <version>1.0.1.0</version>
+  <version>1.0.2.0</version>
   <dependencies>
     <li>[1.0]RePower</li>
     <li>HighTechLaboratoryFacilities</li>
@@ -13,5 +13,5 @@
     <li>HighTechLaboratoryFacilities</li>
   </loadAfter>
   <manifestUri>https://raw.githubusercontent.com/emipa606/RePowerPatches/master/RePowerHighTechLaboratoryFacilitiesPatch/About/Manifest.xml</manifestUri>
-  <downloadUri>https://github.com/emipa606/RePowerPatches/RePowerHighTechLaboratoryFacilitiesPatch</downloadUri>
+  <downloadUri>https://github.com/emipa606/RePowerPatches/tree/master/RePowerHighTechLaboratoryFacilitiesPatch</downloadUri>
 </Manifest>
