@@ -13,5 +13,5 @@
     <li>ElectricStonecuttingTable</li>
   </loadAfter>
   <manifestUri>https://raw.githubusercontent.com/emipa606/RePowerPatches/master/RePowerElectricStonecuttingTablePatch/About/Manifest.xml</manifestUri>
-  <downloadUri>https://github.com/emipa606/RePowerPatches/RePowerElectricStonecuttingTablePatch</downloadUri>
+  <downloadUri>https://github.com/emipa606/RePowerPatches/tree/master/RePowerElectricStonecuttingTablePatch</downloadUri>
 </Manifest>
