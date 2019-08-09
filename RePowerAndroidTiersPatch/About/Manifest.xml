@@ -17,5 +17,5 @@
     <li>[1.0]Androidtiers</li>
   </loadAfter>
   <manifestUri>https://raw.githubusercontent.com/emipa606/RePowerPatches/master/RePowerAndroidTiersPatch/About/Manifest.xml</manifestUri>
-  <downloadUri>https://github.com/emipa606/RePowerPatches/RePowerAndroidTiersPatch</downloadUri>
+  <downloadUri>https://github.com/emipa606/RePowerPatches/tree/master/RePowerAndroidTiersPatch</downloadUri>
 </Manifest>
