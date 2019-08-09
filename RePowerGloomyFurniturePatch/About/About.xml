@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>RePower GloomyFurniture Patch</name>
+	<author>Mlie</author>
+	<supportedVersions>
+		<li>1.0</li>
+	</supportedVersions>
+	<url>https://github.com/emipa606/RePowerPatches/RePowerGloomyFurniturePatch</url>
+	<description>
+Patches GloomyFurniture benches for using the RePower system:
+
+Electric stove (10W Idle, 800W Active)
+Electric tailor bench (10W Idle, 400W Active)
+Electric smithy (10W Idle, 500W Active)
+
+Support-chat here: https://s.team/chat/KUDuzMGR
+	</description>
+</ModMetaData>

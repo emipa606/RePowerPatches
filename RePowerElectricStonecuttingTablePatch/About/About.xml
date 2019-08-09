@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>RePower Electric Stonecutting Table Patch</name>
+	<author>Mlie</author>
+	<supportedVersions>
+		<li>1.0</li>
+	</supportedVersions>
+	<url>https://github.com/emipa606/RePowerPatches/RePowerElectricStonecuttingTablePatch</url>
+	<description>
+Patches Electric Stonecutting Table for using the RePower system:
+
+Electric Stonecutter's Table (10W Idle, 500W Active)
+
+Support-chat here: https://s.team/chat/KUDuzMGR
+	</description>
+</ModMetaData>

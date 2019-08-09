@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>RePower Android Tiers Patch</name>
+	<author>Mlie</author>
+	<supportedVersions>
+		<li>1.0</li>
+	</supportedVersions>
+	<url>https://github.com/emipa606/RePowerPatches/RePowerAndroidTiersPatch</url>
+	<description>
+Patches Android Tiers utilities for using the RePower system:
+
+Robotics production casket (10W Idle, 1000W Active)
+Android Implants workbench (10W Idle, 700W Active)
+Android parts workbench (10W Idle, 700W Active)
+
+Support-chat here: https://s.team/chat/KUDuzMGR
+	</description>
+</ModMetaData>

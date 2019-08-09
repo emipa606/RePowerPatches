@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>RePower RT's Weapon Pack Patch</name>
+	<author>Mlie</author>
+	<supportedVersions>
+		<li>1.0</li>
+	</supportedVersions>
+	<url>https://github.com/emipa606/RePowerPatches/RePowerRTsWeaponPackPatch</url>
+	<description>
+Patches RT's Weapon Pack bench for using the RePower system:
+
+Weapon Assembly Table (10W Idle, 800W Active)
+
+Support-chat here: https://s.team/chat/KUDuzMGR
+	</description>
+</ModMetaData>

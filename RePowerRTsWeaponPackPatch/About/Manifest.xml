@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+  <identifier>RePowerRTsWeaponPackPatch</identifier>
+  <version>1.0.0.0</version>
+  <dependencies>
+    <li>[1.0]RePower</li>
+  </dependencies>
+  <incompatibleWith />
+  <loadBefore />
+  <loadAfter>
+    <li>[1.0]RePower</li>
+    <li>RT'sWeaponPackCEVersion[1.0]</li>
+    <li>RT'sWeaponPack[1.0]</li>
+  </loadAfter>
+  <manifestUri>https://raw.githubusercontent.com/emipa606/RePowerPatches/master/RePowerRTsWeaponPackPatch/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/emipa606/RePowerPatches/RePowerRTsWeaponPackPatch</downloadUri>
+</Manifest>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+  <identifier>RePowerAndroidTiersPatch</identifier>
+  <version>1.0.0.0</version>
+  <dependencies>
+    <li>[1.0]RePower</li>
+    <li>JecsTools</li>
+    <li>HumanoidAlienRaces2.0</li>
+    <li>[1.0]Androidtiers</li>
+  </dependencies>
+  <incompatibleWith />
+  <loadBefore />
+  <loadAfter>
+    <li>[1.0]RePower</li>
+    <li>JecsTools</li>
+    <li>HumanoidAlienRaces2.0</li>
+    <li>[1.0]Androidtiers</li>
+  </loadAfter>
+  <manifestUri>https://raw.githubusercontent.com/emipa606/RePowerPatches/master/RePowerAndroidTiersPatch/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/emipa606/RePowerPatches/RePowerAndroidTiersPatch</downloadUri>
+</Manifest>
