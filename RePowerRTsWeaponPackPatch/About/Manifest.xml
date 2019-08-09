@@ -13,5 +13,5 @@
     <li>RT'sWeaponPack[1.0]</li>
   </loadAfter>
   <manifestUri>https://raw.githubusercontent.com/emipa606/RePowerPatches/master/RePowerRTsWeaponPackPatch/About/Manifest.xml</manifestUri>
-  <downloadUri>https://github.com/emipa606/RePowerPatches/RePowerRTsWeaponPackPatch</downloadUri>
+  <downloadUri>https://github.com/emipa606/RePowerPatches/tree/master/RePowerRTsWeaponPackPatch</downloadUri>
 </Manifest>
