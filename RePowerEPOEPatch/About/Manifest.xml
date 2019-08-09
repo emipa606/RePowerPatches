@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
   <identifier>RePowerEPOEPatch</identifier>
-  <version>1.0.0.0</version>
+  <version>1.0.2.0</version>
   <dependencies>
     <li>[1.0]RePower</li>
     <li>ExpandedProstheticsandOrganEngineering</li>
@@ -13,5 +13,5 @@
     <li>ExpandedProstheticsandOrganEngineering</li>
   </loadAfter>
   <manifestUri>https://raw.githubusercontent.com/emipa606/RePowerPatches/master/RePowerEPOEPatch/About/Manifest.xml</manifestUri>
-  <downloadUri>https://github.com/emipa606/RePowerPatches/RePowerEPOEPatch</downloadUri>
+  <downloadUri>https://github.com/emipa606/RePowerPatches/tree/master/RePowerEPOEPatch</downloadUri>
 </Manifest>
