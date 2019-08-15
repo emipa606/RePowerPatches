@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>RePower Project RimFactory Patch</name>
+	<author>Mlie</author>
+	<supportedVersions>
+		<li>1.0</li>
+	</supportedVersions>
+	<url>https://github.com/emipa606/RePowerPatches/tree/master/RePowerProjectRimFactoryPatch</url>
+	<description>
+Patches Project RimFactory benches for using the RePower system:
+
+Robotic machining table (10W Idle, 900W Active)
+
+Support-chat here: https://s.team/chat/KUDuzMGR
+	</description>
+</ModMetaData>
