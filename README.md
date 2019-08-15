@@ -13,3 +13,6 @@ Compilation of patches for RePower
 - RePowerGloomyFurniturePatch
 - RePowerRTsWeaponPackPatch
 - RePowerAndroidTiersPatch
+- RePowerProjectRimFactoryPatch
+- RePowerRimmuNationPatch
+- RePowerCeramicsPatch
