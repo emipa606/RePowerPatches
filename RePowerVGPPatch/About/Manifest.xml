@@ -1,16 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
   <identifier>RePowerVGPPatch</identifier>
-  <version>1.0.2.0</version>
+  <version>1.0.3.0</version>
   <dependencies>
     <li>[1.0]RePower</li>
     <li>VGPGardenGourmet</li>
+    <li>VGPGardenFabrics</li>
   </dependencies>
   <incompatibleWith />
   <loadBefore />
   <loadAfter>
     <li>[1.0]RePower</li>
     <li>VGPGardenGourmet</li>
+    <li>VGPGardenFabrics</li>
   </loadAfter>
   <manifestUri>https://raw.githubusercontent.com/emipa606/RePowerPatches/master/RePowerVGPPatch/About/Manifest.xml</manifestUri>
   <downloadUri>https://github.com/emipa606/RePowerPatches/tree/master/RePowerVGPPatch</downloadUri>
