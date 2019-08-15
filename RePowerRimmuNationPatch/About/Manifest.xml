@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+  <identifier>RePowerRimmuNationPatch</identifier>
+  <version>1.0.0.0</version>
+  <dependencies>
+    <li>[1.0]RePower</li>
+    <li>[CP]Rimmu-Nation-Clothing(1.0)</li>
+    <li>[CP]Rimmu-Nation-Weapons(1.0)</li>
+  </dependencies>
+  <incompatibleWith />
+  <loadBefore />
+  <loadAfter>
+    <li>[1.0]RePower</li>
+    <li>[CP]Rimmu-Nation-Clothing(1.0)</li>
+    <li>[CP]Rimmu-Nation-Weapons(1.0)</li>
+  </loadAfter>
+  <manifestUri>https://raw.githubusercontent.com/emipa606/RePowerPatches/master/RePowerRimmuNationPatch/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/emipa606/RePowerPatches/tree/master/RePowerRimmuNationPatch</downloadUri>
+</Manifest>

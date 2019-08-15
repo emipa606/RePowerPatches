@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>RePower Rimmu-Nation Patch</name>
+	<author>Mlie</author>
+	<supportedVersions>
+		<li>1.0</li>
+	</supportedVersions>
+	<url>https://github.com/emipa606/RePowerPatches/tree/master/RePowerRimmuNationPatch</url>
+	<description>
+Patches Rimmu-Nation benches for using the RePower system:
+
+RN Apparel bench (10W Idle, 250W Active)
+RN CQB bench (10W Idle, 250W Active)
+RN Rifleman bench (10W Idle, 250W Active)
+RN Marksman bench (10W Idle, 250W Active)
+RN Heavy bench (10W Idle, 250W Active)
+
+Support-chat here: https://s.team/chat/KUDuzMGR
+	</description>
+</ModMetaData>
