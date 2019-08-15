@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>RePower Ceramics Patch</name>
+	<author>Mlie</author>
+	<supportedVersions>
+		<li>1.0</li>
+	</supportedVersions>
+	<url>https://github.com/emipa606/RePowerPatches/tree/master/RePowerCeramicsPatch</url>
+	<description>
+Patches Ceramics benches for using the RePower system:
+
+Electric ceramics bench (10W Idle, 400W Active)
+Electric kiln (10W Idle, 600W Active)
+Materials processing bench (10W Idle, 700W Active)
+
+Support-chat here: https://s.team/chat/KUDuzMGR
+	</description>
+</ModMetaData>
