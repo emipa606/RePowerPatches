@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
   <identifier>RePowerVGPPatch</identifier>
-  <version>1.0.3.0</version>
+  <version>1.0.4.0</version>
   <dependencies>
-    <li>[1.0]RePower</li>
     <li>VGPGardenGourmet</li>
     <li>VGPGardenFabrics</li>
   </dependencies>
   <incompatibleWith />
   <loadBefore />
   <loadAfter>
+    <li>RePowerReborn</li>
     <li>[1.0]RePower</li>
     <li>VGPGardenGourmet</li>
     <li>VGPGardenFabrics</li>
