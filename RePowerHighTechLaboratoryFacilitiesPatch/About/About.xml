@@ -1,11 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>RePower HighTech Laboratory Facilities Patch</name>
+	<packageId>Mlie.RePower.HighTechLaboratoryFacilitiesPatch</packageId>
+	<author>Mlie</author>
 	<supportedVersions>
 		<li>1.0</li>
+		<li>1.1</li>
 	</supportedVersions>
 	<url>https://github.com/emipa606/RePowerPatches/tree/master/RePowerHighTechLaboratoryFacilitiesPatch</url>
-	<author>Mlie</author>
 	<description>
 Patches HighTech Laboratory Facilities workbenches for using the RePower system:
 
