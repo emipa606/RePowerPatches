@@ -1,10 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>RePower RBSE Patch</name>
+	<packageId>Mlie.RePower.RBSEPatch</packageId>
+	<author>Mlie</author>
 	<supportedVersions>
 		<li>1.0</li>
+		<li>1.1</li>
 	</supportedVersions>
-	<author>Mlie</author>
 	<url>https://github.com/emipa606/RePowerPatches/tree/master/RePowerRBSEPatch</url>
 	<description>
 Patches Rah's Bionics and Surgery Expansion workbenches for using the RePower system:
