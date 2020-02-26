@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>RePower EPOE Patch</name>
-	<packageId>Mlie.RePower.AndroidTiersPatch</packageId>
+	<packageId>Mlie.RePower.EPOEPatch</packageId>
 	<author>Mlie</author>
 	<supportedVersions>
 		<li>1.0</li>
