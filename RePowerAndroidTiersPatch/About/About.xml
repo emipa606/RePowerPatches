@@ -8,14 +8,20 @@
 		<li>1.1</li>
 	</supportedVersions>
 	<url>https://github.com/emipa606/RePowerPatches/tree/master/RePowerAndroidTiersPatch</url>
-	<modDependencies>
+	<modDependencies>	
+		<li>
+			<packageId>erdelf.HumanoidAlienRaces</packageId>
+			<displayName>Humanoid Alien Races</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/839005762</steamWorkshopUrl>
+		</li>
 		<li>
 			<packageId>EbonJaeger.RePowerReborn</packageId>
 			<displayName>RePower Reborn</displayName>
 			<steamWorkshopUrl>steam://url/CommunityFilePage/1845531445</steamWorkshopUrl>
-		</li>
+		</li>	
 	</modDependencies>
 	<loadAfter>
+		<li>erdelf.HumanoidAlienRaces</li>
 		<li>EbonJaeger.RePowerReborn</li>
 	</loadAfter>
 	<description>
