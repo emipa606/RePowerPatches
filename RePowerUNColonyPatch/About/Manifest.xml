@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
   <identifier>RePowerUNColonyPatch</identifier>
-  <version>1.0.4.0</version>
+  <version>1.0.5.0</version>
   <dependencies>
     <li>1-UN-Colony[1.0]</li>
+    <li>RePowerReborn</li>
   </dependencies>
   <incompatibleWith />
   <loadBefore />
   <loadAfter>
     <li>RePowerReborn</li>
-    <li>[1.0]RePower</li>
     <li>1-UN-Colony[1.0]</li>
   </loadAfter>
   <manifestUri>https://raw.githubusercontent.com/emipa606/RePowerPatches/master/RePowerUNColonyPatch/About/Manifest.xml</manifestUri>
