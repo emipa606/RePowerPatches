@@ -8,6 +8,16 @@
 		<li>1.1</li>
 	</supportedVersions>
 	<url>https://github.com/emipa606/RePowerPatches/tree/master/RePowerAndroidTiersPatch</url>
+	<modDependencies>
+		<li>
+			<packageId>EbonJaeger.RePowerReborn</packageId>
+			<displayName>RePower Reborn</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/1845531445</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>EbonJaeger.RePowerReborn</li>
+	</loadAfter>
 	<description>
 Patches Android Tiers utilities for using the RePower system:
 
