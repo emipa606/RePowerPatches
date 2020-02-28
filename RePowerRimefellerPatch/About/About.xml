@@ -8,6 +8,24 @@
 		<li>1.1</li>
 	</supportedVersions>
 	<url>https://github.com/emipa606/RePowerPatches/tree/master/RePowerRimefellerPatch</url>
+	<modDependencies>
+		<li>
+			<packageId>EbonJaeger.RePowerReborn</packageId>
+			<displayName>RePower Reborn</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/1845531445</steamWorkshopUrl>
+			<downloadUrl>https://github.com/EbonJaeger/RePowerReborn</downloadUrl>
+		</li>
+		<li>
+			<packageId>Dubwise.Rimefeller</packageId>
+			<displayName>Rimefeller</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/1321849735</steamWorkshopUrl>
+			<downloadUrl>https://github.com/Dubwise56/Rimefeller/wiki</downloadUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Dubwise.Rimefeller</li>
+		<li>EbonJaeger.RePowerReborn</li>
+	</loadAfter>
 	<description>
 Patches Rimefeller utilities for using the RePower system:
 
