@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
   <identifier>RePowerCeramicsPatch</identifier>
-  <version>1.0.2.0</version>
+  <version>1.0.3.0</version>
   <dependencies>
+    <li>RePowerReborn</li>
     <li>[1.0]Ceramics</li>
   </dependencies>
   <incompatibleWith />
   <loadBefore />
   <loadAfter>
     <li>RePowerReborn</li>
-    <li>[1.0]RePower</li>
     <li>[1.0]Ceramics</li>
   </loadAfter>
   <manifestUri>https://raw.githubusercontent.com/emipa606/RePowerPatches/master/RePowerCeramicsPatch/About/Manifest.xml</manifestUri>

@@ -8,6 +8,23 @@
 		<li>1.1</li>
 	</supportedVersions>
 	<url>https://github.com/emipa606/RePowerPatches/tree/master/RePowerCeramicsPatch</url>
+	<modDependencies>
+		<li>
+			<packageId>EbonJaeger.RePowerReborn</packageId>
+			<displayName>RePower Reborn</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/1845531445</steamWorkshopUrl>
+			<downloadUrl>https://github.com/EbonJaeger/RePowerReborn</downloadUrl>
+		</li>
+		<li>
+			<packageId>n7huntsman.ceramics</packageId>
+			<displayName>Ceramics</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/1833163132</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>n7huntsman.ceramics</li>
+		<li>EbonJaeger.RePowerReborn</li>
+	</loadAfter>
 	<description>
 Patches Ceramics benches for using the RePower system:
 
