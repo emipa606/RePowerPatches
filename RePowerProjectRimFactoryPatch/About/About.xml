@@ -8,6 +8,17 @@
 		<li>1.1</li>
 	</supportedVersions>
 	<url>https://github.com/emipa606/RePowerPatches/tree/master/RePowerProjectRimFactoryPatch</url>
+	<modDependencies>
+		<li>
+			<packageId>EbonJaeger.RePowerReborn</packageId>
+			<displayName>RePower Reborn</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/1845531445</steamWorkshopUrl>
+			<downloadUrl>https://github.com/EbonJaeger/RePowerReborn</downloadUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>EbonJaeger.RePowerReborn</li>
+	</loadAfter>
 	<description>
 Patches Project RimFactory benches for using the RePower system:
 
