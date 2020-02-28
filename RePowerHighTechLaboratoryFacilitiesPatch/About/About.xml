@@ -8,6 +8,24 @@
 		<li>1.1</li>
 	</supportedVersions>
 	<url>https://github.com/emipa606/RePowerPatches/tree/master/RePowerHighTechLaboratoryFacilitiesPatch</url>
+	<modDependencies>
+		<li>
+			<packageId>EbonJaeger.RePowerReborn</packageId>
+			<displayName>RePower Reborn</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/1845531445</steamWorkshopUrl>
+			<downloadUrl>https://github.com/EbonJaeger/RePowerReborn</downloadUrl>
+		</li>
+		<li>
+			<packageId>Mlie.HighTechLaboratoryFacilities</packageId>
+			<displayName>High Tech Laboratory Facilities</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/1542048177</steamWorkshopUrl>
+			<downloadUrl>https://github.com/emipa606/HighTechLaboratoryFacilities</downloadUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Mlie.HighTechLaboratoryFacilities</li>
+		<li>EbonJaeger.RePowerReborn</li>
+	</loadAfter>
 	<description>
 Patches HighTech Laboratory Facilities workbenches for using the RePower system:
 
