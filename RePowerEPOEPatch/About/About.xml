@@ -15,16 +15,11 @@
 			<steamWorkshopUrl>steam://url/CommunityFilePage/1845531445</steamWorkshopUrl>
 			<downloadUrl>https://github.com/EbonJaeger/RePowerReborn</downloadUrl>
 		</li>
-		<li>
-			<packageId>Ykara.EPOE</packageId>
-			<displayName>Expanded Prosthetics and Organ Engineering</displayName>
-			<steamWorkshopUrl>steam://url/CommunityFilePage/725956940</steamWorkshopUrl>
-			<downloadUrl>https://ludeon.com/forums/index.php?topic=10571.0</downloadUrl>
-		</li>
 	</modDependencies>
 	<loadAfter>
 		<li>Ykara.EPOE</li>
 		<li>EbonJaeger.RePowerReborn</li>
+		<li>vat.epoeforked</li>
 	</loadAfter>
 	<description>
 Patches Ykara's Expanded Prosthetics and Organ Engineering Tissue Printer for using the RePower system:
