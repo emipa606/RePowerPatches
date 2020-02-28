@@ -2,12 +2,13 @@
 <Manifest>
   <identifier>RePowerRimmuNationPatch</identifier>
   <version>1.0.3.0</version>
-  <dependencies />
+  <dependencies>
+    <li>RePowerReborn</li>
+  </dependencies>
   <incompatibleWith />
   <loadBefore />
   <loadAfter>
     <li>RePowerReborn</li>
-    <li>[1.0]RePower</li>
     <li>[CP]Rimmu-Nation-Clothing(1.0)</li>
     <li>[CP]Rimmu-Nation-Weapons(1.0)</li>
     <li>[CP]Rimmu-Nation-GlovesN'Boots(1.0)</li>
